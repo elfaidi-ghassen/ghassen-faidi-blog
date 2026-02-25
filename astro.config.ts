@@ -27,7 +27,7 @@ export default defineConfig({
     shikiConfig: {
       // For more themes, visit https://shiki.style/themes
       themes: { light: "min-light", dark: "night-owl" },
-      defaultColor: false,
+      defaultColor: "light",
       wrap: false,
       transformers: [
         transformerFileName({ style: "v2", hideDot: false }),
