@@ -58,7 +58,7 @@ Why is entropy called "entropy" in information theory? Well, it's pretty much a 
 
 > I thought of calling it "information", but the word was overly used, so I decided to call it "uncertainty". [...] Von Neumann told me: you should call it entropy, for two reasons. In the first place your uncertainty function has been used in statistical mechanics under that name, so it already has a name. In the second place, and more important, nobody knows what entropy really is, so in a debate you will always have the advantage. -- [Wikipedia](https://en.wikipedia.org/wiki/Entropy?useskin=vector#Information_theory)
 
-Why is it called a lambda function?:
+Why is it called a lambda function?
 
 > It may seem perverse to use lambda to introduce a procedure/function. The notation goes back to Alonzo Church, who in the 1930's started with a "hat" symbol; he wrote the square function as "ŷ . y × y". But frustrated typographers moved the hat to the left of the parameter and changed it to a capital lambda: "Λy . y × y"; 
 from there the capital lambda was changed to lowercase, and now we see "λy . y × y" in math books and (lambda (y) (* y y)) in Lisp. -- [Peter Norvig](norvig.com/lispy2.html)
@@ -66,7 +66,7 @@ from there the capital lambda was changed to lowercase, and now we see "λy . y 
 But the person who really changed my perspective on the importance of terminology was Professor Dan Grossman. I was studying his [online course](https://www.coursera.org/learn/programming-languages) on programming languages. While he was explaining the difference between "higher-order functions" and "first-class functions," he said, "People often confuse these terms and use them interchangeably, so we won't care so much either." 
 That hit me. If someone with a PhD in programming languages doesn't care, why do I? Is precision a tool, or is it an end in itself?
 
-I loosened up; I stopped correcting people when not necessary. I also started to dislike courses and books that are full of unimaginative jargon, one example I won't forget is "ideation", [which another word for "thinking"](https://web.archive.org/web/20190207015323/https://hbr.org/2008/08/why-jargon-feeds-on-lazy-minds.html).
+I loosened up; I stopped correcting people when not necessary. I also started to dislike courses and books that are full of unimaginative jargon, one example I won't forget is "ideation", [which is another word for "thinking"](https://web.archive.org/web/20190207015323/https://hbr.org/2008/08/why-jargon-feeds-on-lazy-minds.html).
 
 
 I also started to appreciate it in books and in courses when the teacher shows that they are aware of jargon and terms that sound way too fancy, as in [Crafting Interpreters](https://craftinginterpreters.com/a-map-of-the-territory.html#scanning):
@@ -78,7 +78,7 @@ I like it because it sounds human.
 
 ## When misusing terms causes misunderstanding
 
-I remember a professor saying "JavaScript is a interpreted language", and started explaining the drawbacks of being interpreted.
+I remember a professor saying "JavaScript is an interpreted language", and started explaining the drawbacks of being interpreted.
 
 Now, later when I studied programming languages, I realized how what he said actually distorted my understanding.
 Being interpreted or compiled is not a matter of the language; it's a property of the implementation. Without that understanding, one starts to confuse dynamic typing with interpreting and static typing with compiling. A language can be implemented using a compiler, interpreter or even both.
@@ -92,4 +92,4 @@ So, overall, I think we should take it easy; most misuse of terms is harmless, a
 
 ## Side notes
 
-Recently I've been reading the novel Orwell's 1984 for the first time. One idea really struck me, creating a new language (Newspeak) with a vocabulary deliberately small to limit how people think and feel. you'd walk past flowers, but perhaps you'd never see them.
+Recently I've been reading the novel Orwell's 1984 for the first time. One idea really struck me, creating a new language (Newspeak) with a vocabulary deliberately small to limit how people think and feel. You'd walk past flowers, but perhaps you'd never see them.
