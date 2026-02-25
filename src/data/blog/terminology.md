@@ -14,7 +14,7 @@ description:
 
 <figure>
   <img
-    src="/src/assets/images/terminology/thistle-dither-annotated.png"
+    src="/images/terminology/thistle-dither-annotated.png"
     alt="TODO"
   />
   <figcaption class="text-center">
