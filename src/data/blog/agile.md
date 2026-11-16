@@ -68,7 +68,7 @@ We often try to seek perfection. This idea that we need to be passionate about w
 
 *If we only did things out of passion, society is doomed*. 
 
-But we can do better, and we deserve better. It's just it feels sometimes that we don't care enough about what we claim we care about.
+But we can do better, and we deserve better. It's just feels sometimes that we don't care enough about what we claim we care about.
 
 ---
 [^incremental]: Martin Fowler has a satisfying discussion about how unimportant the distinctions in UML Distilled. 
