@@ -88,8 +88,3 @@ If understanding is distorted by misusing terms, leading to wrong thinking, perh
 
 So, overall, I think we should take it easy; most misuse of terms is harmless, and people are good at understanding each other. But in some cases, it's worth being precise.
 
----
-
-## Side notes
-
-Recently I've been reading the novel Orwell's 1984 for the first time. One idea really struck me, creating a new language (Newspeak) with a vocabulary deliberately small to limit how people think and feel. You'd walk past flowers, but perhaps you'd never see them.

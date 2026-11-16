@@ -81,6 +81,14 @@ export default defineConfig({
         weights: [300, 400, 500, 600, 700],
         styles: ["normal", "italic"],
       },
+      {
+        name: "Montserrat",
+        cssVariable: "--font-google-montserrat",
+        provider: fontProviders.google(),
+        weights: [300, 400, 500, 600, 700],
+        fallbacks: ["sans-serif"],
+        styles: ["normal", "italic"],
+    },
     ],
   },
 
