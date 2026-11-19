@@ -3,7 +3,7 @@ title: Obsessed with terminology
 author: Ghassen Faidi
 pubDatetime: 2026-2-24T04:06:31Z
 slug: terminology
-featured: true
+featured: false
 draft: false
 tags:
   - terminology

@@ -3,7 +3,7 @@ title: When Good Practices Become Empty Rituals
 author: Ghassen Faidi
 pubDatetime: 2026-11-09
 slug: when-good-practices-fail
-featured: false
+featured: true
 draft: false
 tags:
   - agile
