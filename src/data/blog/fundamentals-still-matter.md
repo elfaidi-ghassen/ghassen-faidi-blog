@@ -16,10 +16,6 @@ We often hear the generic advice to “focus on the fundamentals.” For some re
 
 Here’s the key idea: **two different people can study the same material from the same teacher or book and walk away with completely different experiences because of the knowledge they already have.**
 
-![Palm Trees - Jan Ciągliński (1909)](https://substackcdn.com/image/fetch/$s_!tNow!,w_1456,c_limit,f_auto,q_auto,good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38416049-5029-4835-b8df-79361ed3b229_1800x1184.jpeg)
-
-*Palm Trees - Jan Ciągliński (1909)*
-
 “Previous knowledge” makes learning new things much more fun because you’re not starting from scratch every time! When we haven’t internalized the key fundamental “chunks of knowledge,” every new problem we face feels completely new, so it feels much more painful. But what’s worse is that we learn less from the experience. Without a well-organized base of knowledge, new information has no meaningful place to attach to, so much of it is quickly forgotten.
 
 There are three things that good fundamentals help you with:
